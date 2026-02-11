@@ -70,7 +70,7 @@ throttle = min(max(error/gain, 0), Tmax);
 
 ---
 
-## 🔧 Concepts Demonstrated
+## Concepts Demonstrated
 
 * Model-Based Design
 * Supervisory Control (Stateflow)
